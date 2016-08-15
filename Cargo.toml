@@ -1,0 +1,8 @@
+[package]
+name = "file-server-rs"
+version = "0.0.1"
+authors = ["htmldrum <htmldrum@tutanota.com>"]
+
+[dependencies]
+tokio = { git = "https://github.com/tokio-rs/tokio" }
+rand = "0.3"
